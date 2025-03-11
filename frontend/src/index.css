@@ -1,0 +1,19 @@
+:root {
+    --bleuMarine:#1E2A47;
+    --bleuClair:#4A90E2;
+    --grisClair:#F4F6F9;
+    --grisFonce:#4A4A4A;
+    --blancPur:#FFFFFF;
+
+    --vert: #007e06;
+    font-family: 'Roboto', sans-serif;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    color:var(--blancPur);
+}
